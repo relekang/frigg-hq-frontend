@@ -30,7 +30,7 @@ store.dispatcherToken = Dispatcher.register(payload => {
   };
 
   actions[ALERT_REMOVE] = payload => {
-    delete alerts[payload.action.key];
+    delete alerts[payload.action.key.key];
     store.emitChange();
   };
 
