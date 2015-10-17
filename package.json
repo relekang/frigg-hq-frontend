@@ -53,7 +53,7 @@
     "eslint-config-airbnb": "*",
     "eslint-plugin-react": "*",
     "eslint-config-frigg": "frigg/eslint-config-frigg",
-    "express": "^4.12.3",
+    "express": "^4.13.3",
     "file-loader": "^0.8.4",
     "istanbul": "^0.3.19",
     "jsdom": "^6.3.0",
