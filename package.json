@@ -64,7 +64,7 @@
     "eslint-plugin-react": "*",
     "express": "^4.12.3",
     "file-loader": "^0.8.4",
-    "istanbul": "^0.3.19",
+    "istanbul": "^0.4.1",
     "jsdom": "^6.3.0",
     "json-loader": "^0.5.2",
     "mocha": "^2.2.5",
