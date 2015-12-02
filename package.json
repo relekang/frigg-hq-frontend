@@ -65,7 +65,7 @@
     "express": "^4.12.3",
     "file-loader": "^0.8.4",
     "istanbul": "^0.3.19",
-    "jsdom": "^7.1.0",
+    "jsdom": "^7.1.1",
     "json-loader": "^0.5.2",
     "mocha": "^2.2.5",
     "react-addons-test-utils": "^0.14.2",
