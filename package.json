@@ -33,7 +33,7 @@
     "lodash": "3.10.1",
     "lz-string": "1.4.4",
     "mock-local-storage": "1.0.2",
-    "moment": "2.10.6",
+    "moment": "2.11.1",
     "nib": "1.1.0",
     "react": "^0.14.3",
     "react-addons-css-transition-group": "0.14.3",
